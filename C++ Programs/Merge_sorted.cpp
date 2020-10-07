@@ -1,12 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-/* This function returns 
-median of ar1[] and ar2[].
-Assumptions in this function:
-Both ar1[] and ar2[] 
-are sorted arrays
-Both have n elements */
 int getMedian(int ar1[],
               int ar2[], int n)
 {
@@ -82,6 +76,3 @@ int main()
     getchar();
     return 0;
 }
- 
-// This code is contributed 
-// by Shivi_Aggarwal
